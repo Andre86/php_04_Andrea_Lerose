@@ -17,3 +17,5 @@ foreach ($users as $user) {
         echo "Buongiorno " . $user['name'] . " " . $user['surname'] . "\n";
     }
 }
+
+?>
